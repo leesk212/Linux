@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////
-// Title : System Programming Assignment #1-1 ( ftp server )         //
-// Description : How to use a getopt function in the UNIX and 	     //
+// Title : System Programming 					     //
+// Description : How to use a getopt function in the UNIX  	     //
 ///////////////////////////////////////////////////////////////////////
 #include <unistd.h>
 
